@@ -4,7 +4,7 @@
 - 📫 How to reach me : Email:mwellersonbrandao@outlook.com
 
 ##
-
+<!---
 <div style="display: inline_block">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Marcos-Brandao&show_icons=true&theme=transparent" />
@@ -13,7 +13,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcos-Brandao&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </div> 
-
+-->
 ##
 
 <div style="display: inline_block"><br>
