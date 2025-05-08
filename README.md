@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marcos-Brandao
-- 👀 I’m interested in: HTML; CSS; JavaScript; PHP
-- 🌱 I’m currently learning: Development Full Stack
+- 👀 I’m working with: HTML; CSS; JavaScript; PHP; MySql
+- 🌱 I’m currently: Full Stack Developer 
 - 📫 How to reach me : Email:mwellersonbrandao@outlook.com
 
 ##
@@ -23,6 +23,7 @@
  
   <img align="center" alt="Marcos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   
+  <img align="center" alt="Marcos-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   
 </div>
 
